@@ -1,2 +1,2 @@
 # Date Validation Program
-# Program will ensure that date entered by user is a valid date
+# Program will ensure that dates entered are valid
